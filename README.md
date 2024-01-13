@@ -22,7 +22,8 @@ Este é um projeto simples do jogo da cobra, também conhecido como Snake, imple
 - A pontuação é exibida na parte superior da janela do jogo.
 - O jogo termina quando a cobra colide com a borda da tela ou com ela mesma, e uma mensagem de "game over" é exibida.
 - Após o fim do jogo, você pode pressionar a tecla espaço para reiniciar o jogo.
-##Screenshots
+
+## Screenshots
 
 ![image](https://github.com/dasilvabonfim/Jogo-da-cobra/assets/112987011/84b49b8b-4e41-40e7-8123-01bb7e1ac25a)
 
